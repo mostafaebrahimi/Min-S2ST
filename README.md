@@ -42,7 +42,3 @@ For an input audio file in English, `Min-S2ST` can automatically detect the lang
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-This `README.md` provides a basic overview, setup instructions, and usage for the **Min-S2ST** project.
